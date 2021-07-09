@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/korinjoroge/Documents/Csharp/Rockpaperscissors/Rockpaperscissors.csproj": {}
+  },
+  "projects": {
+    "/home/korinjoroge/Documents/Csharp/Rockpaperscissors/Rockpaperscissors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/korinjoroge/Documents/Csharp/Rockpaperscissors/Rockpaperscissors.csproj",
+        "projectName": "Rockpaperscissors",
+        "projectPath": "/home/korinjoroge/Documents/Csharp/Rockpaperscissors/Rockpaperscissors.csproj",
+        "packagesPath": "/home/korinjoroge/.nuget/packages/",
+        "outputPath": "/home/korinjoroge/Documents/Csharp/Rockpaperscissors/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/korinjoroge/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.410/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
